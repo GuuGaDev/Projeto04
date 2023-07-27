@@ -29,5 +29,8 @@ trabalho dos funcionários e incluir no relatório outros itens como:
 
 ---
 
+- Gustavo Daher (Pessoa Co-facilitadora)<a href="https://www.linkedin.com/in/gustavo-daher-/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
 
 
